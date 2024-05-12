@@ -1,5 +1,6 @@
 # About-me
 ![](https://github.com/qjlcastillo/About-me.github.io/blob/main/resized_image.jpg)
+
 Hello! 👋 I'm Joshua Castillo, a Computer Engineering student with a passion for engineering. I enjoy playing basketball, watching anime/e-sports tournaments and playing games.
 
 # Education
